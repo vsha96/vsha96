@@ -1,5 +1,5 @@
 Hello there ✨  
-Enthusiastic Software/ML Engineer 👽 Well-versed in programming in various paradigms   
+Enthusiastic Software/ML/AI Engineer 👽 Well-versed in programming in various paradigms   
 
 [![](https://img.shields.io/github/stars/vsha96?style=for-the-badge&logo=github&color=silver&logoColor=white&labelColor=black)](https://github.com/vsha96?tab=repositories)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/vsha96/)
